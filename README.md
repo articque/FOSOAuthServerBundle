@@ -1,4 +1,4 @@
-FOSOAuthServerBundle
+FOSOAuthServerBundle (by Articque)
 ====================
 
 [![Build Status](https://secure.travis-ci.org/FriendsOfSymfony/FOSOAuthServerBundle.png)](http://travis-ci.org/FriendsOfSymfony/FOSOAuthServerBundle)
